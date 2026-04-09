@@ -4,7 +4,7 @@
 > Orbital mechanics engine · SGP4 propagation · Conjunction detection · REST API · Interactive dashboard
 
 ## 🎥 Demo
-![Demo](demo.gif)
+![Demo](demo.gif){width=800}
 
 ---
 
