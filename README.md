@@ -4,7 +4,10 @@
 > Orbital mechanics engine · SGP4 propagation · Conjunction detection · REST API · Interactive dashboard
 
 ## 🎥 Demo
-Video Project 1.mp4
+![Demo](demo.gif)
+
+👉 Full video:  
+https://raw.githubusercontent.com/lalit2121/Space-Surveillance-and-Tracking-Dashboard-Space-Situational-Awareness-Project/main/Project%201.mp4
 ---
 
 ## 📌 Table of Contents
