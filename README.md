@@ -4,7 +4,7 @@
 > Orbital mechanics engine · SGP4 propagation · Conjunction detection · REST API · Interactive dashboard
 
 ## 🎥 Demo
-![Demo](demo.gif){width=800}
+ffmpeg -i "Video Project 1.mp4" -vf "fps=8,scale=960:-1:flags=lanczos" -loop 0 demo.gif
 
 ---
 
