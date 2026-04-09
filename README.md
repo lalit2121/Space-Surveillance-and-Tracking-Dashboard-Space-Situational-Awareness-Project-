@@ -5,10 +5,7 @@
 
 ## 🎥 Demo
 
-![Demo](demo.gif)
-
-👉 Full video:  
-https://raw.githubusercontent.com/lalit2121/Space-Surveillance-and-Tracking-Dashboard-Space-Situational-Awareness-Project/main/Video%20Project%201.mp4
+[![Demo](demo.gif)](https://raw.githubusercontent.com/lalit2121/Space-Surveillance-and-Tracking-Dashboard-Space-Situational-Awareness-Project/main/Video%20Project%201.mp4)
 ---
 
 ## 📌 Table of Contents
