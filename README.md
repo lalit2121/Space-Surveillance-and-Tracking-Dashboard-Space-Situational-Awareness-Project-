@@ -1,6 +1,6 @@
 # 🛰️ Satellite tracking System
 
-> A production-grade, open-source SSA platform built entirely with free tools.  
+> A production-grade, open-source SST platform built entirely with free tools.  
 > Orbital mechanics engine · SGP4 propagation · Conjunction detection · REST API · Interactive dashboard
 
 ## 🎥 Demo
